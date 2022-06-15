@@ -1,0 +1,9 @@
+# Ignore everything
+**
+
+# ... except for dependencies and source
+!banner.jpg
+!secrets.py
+!slfotpb.py
+!requirements.txt
+!sample-crontab
