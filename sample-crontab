@@ -1,0 +1,2 @@
+# run code every 2 minutes
+*/2 * * * * /usr/local/bin/python /code/slfotpb.py
