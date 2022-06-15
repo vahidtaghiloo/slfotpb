@@ -1,0 +1,4 @@
+wheel
+requests
+pillow
+git+https://github.com/tweepy/tweepy.git
